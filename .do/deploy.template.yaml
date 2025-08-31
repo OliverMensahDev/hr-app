@@ -1,0 +1,7 @@
+spec:
+ name: hr-app
+ services:
+ - name: web
+   git:
+     branch: main
+     repo_clone_url: https://github.com/OliverMensahDev/hr-app.git

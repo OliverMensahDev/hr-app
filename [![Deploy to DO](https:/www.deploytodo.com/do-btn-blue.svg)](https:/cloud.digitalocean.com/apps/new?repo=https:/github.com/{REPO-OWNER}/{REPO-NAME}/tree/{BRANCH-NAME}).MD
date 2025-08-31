@@ -15,3 +15,4 @@ npm install
 
 Start the application with `npm run dev` command and open `http://localhost:5173` in the browser to see the app.
 
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/OliverMensahDev/hr-app/tree/main)
